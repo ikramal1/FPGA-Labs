@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ecircuit
+Z0 w1767303231
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\TP_VHDL_2025\Circuit
+Z4 8C:\TP_VHDL_2025\Circuit\Circuit.vhd
+Z5 FC:\TP_VHDL_2025\Circuit\Circuit.vhd
+l0
+L4
+VTahP?]ajLJ:gm13M?Jzk62
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1767303280.494000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\TP_VHDL_2025\Circuit\Circuit.vhd|
+Z9 !s107 C:\TP_VHDL_2025\Circuit\Circuit.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 MT>e=>61`cGCYk:Rb?l_63
+!i10b 1
+Aarchi
+R1
+R2
+DEx4 work 7 circuit 0 22 TahP?]ajLJ:gm13M?Jzk62
+l10
+L9
+VIa]AhO:fYbD10JeA5O;T70
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 =>oL7R:8HRUR0ACPU3ADY0
+!i10b 1
+Etb
+Z12 w1767304557
+R1
+R2
+R3
+Z13 8C:\TP_VHDL_2025\Circuit\tb.vhd
+Z14 FC:\TP_VHDL_2025\Circuit\tb.vhd
+l0
+L4
+VoRA5C5KO5Q<5kDE>F7L0j0
+!s100 hWVF:71l8Ao:beZIRM>k;2
+R6
+32
+!i10b 1
+Z15 !s108 1767304584.051000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\TP_VHDL_2025\Circuit\tb.vhd|
+Z17 !s107 C:\TP_VHDL_2025\Circuit\tb.vhd|
+R10
+R11
+Atestbench
+R1
+R2
+DEx4 work 2 tb 0 22 oRA5C5KO5Q<5kDE>F7L0j0
+l19
+L7
+VmRg5E102HOKUPW^SV5QeM1
+!s100 :zl7XGY[b>[6DJGA;knMI0
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11
