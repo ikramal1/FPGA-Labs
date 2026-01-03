@@ -1,0 +1,13 @@
+# Fichiers Quartus à ignorer
+db/
+incremental_db/
+output_files/
+*.rpt
+*.bak
+*.sof
+*.qws
+*.qpf
+*.qsf~
+*.wlf
+*.sms
+
