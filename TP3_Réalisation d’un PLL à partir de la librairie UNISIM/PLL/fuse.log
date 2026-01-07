@@ -1,0 +1,31 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "C:/FPGA_labs/PLL/tb_isim_beh.exe" -prj "C:/FPGA_labs/PLL/tb_beh.prj" "work.tb" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/FPGA_labs/PLL/pll.vhd" into library work
+Parsing VHDL file "C:/FPGA_labs/PLL/tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package vcomponents
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling architecture ibufg_v of entity IBUFG [\IBUFG("DONT_CARE","0",true,"DEF...]
+Compiling architecture clkdll_maximum_period_check_v of entity clkdll_maximum_period_check [\clkdll_maximum_period_check("CL...]
+Compiling architecture clkdll_v of entity CLKDLL [\CLKDLL(2.0,true,"11000000100000...]
+Compiling architecture srl16_v of entity SRL16 [\SRL16("0000000000000000")(0,15)...]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture bufg_v of entity BUFG [bufg_default]
+Compiling architecture obuf_v of entity OBUF [\OBUF("DONT_CARE",12,"DEFAULT","...]
+Compiling architecture behavioral of entity pll [pll_default]
+Compiling architecture archi of entity tb
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+Compiled 24 VHDL Units
+Built simulation executable C:/FPGA_labs/PLL/tb_isim_beh.exe
+Fuse Memory Usage: 56772 KB
+Fuse CPU Usage: 531 ms

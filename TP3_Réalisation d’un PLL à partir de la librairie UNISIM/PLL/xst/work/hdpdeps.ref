@@ -1,0 +1,11 @@
+V3 15
+FL C:/FPGA_labs/PLL/pll.vhd 2026/01/07.10:25:16 P.20131013
+EN work/pll 1767781555 FL C:/FPGA_labs/PLL/pll.vhd PB ieee/std_logic_1164 1381692176 \
+      LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/pll/Behavioral 1767781556 \
+      FL C:/FPGA_labs/PLL/pll.vhd EN work/pll 1767781555 CP IBUFG CP CLKDLL CP SRL16 \
+      CP INV CP BUFG CP OBUF
+FL C:/FPGA_labs/PLL/tb.vhd 2026/01/07.10:28:21 P.20131013
+EN work/tb 0 FL C:/FPGA_labs/PLL/tb.vhd PB ieee/std_logic_1164 1381692176
+AR work/tb/archi 0 \
+      FL C:/FPGA_labs/PLL/tb.vhd EN work/tb 0 CP pll

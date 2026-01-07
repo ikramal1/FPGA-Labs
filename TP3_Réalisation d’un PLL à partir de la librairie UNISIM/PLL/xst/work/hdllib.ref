@@ -1,0 +1,3 @@
+AR pll behavioral C:/FPGA_labs/PLL/pll.vhd sub00/vhpl02 1767781556
+EN tb NULL C:/FPGA_labs/PLL/tb.vhd sub00/vhpl00 1767781557
+EN pll NULL C:/FPGA_labs/PLL/pll.vhd sub00/vhpl01 1767781555

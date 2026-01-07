@@ -1,0 +1,74 @@
+    ____  ____
+   /   /\/   /
+  /___/  \  /    VENDOR      : Xilinx Inc.
+  \   \   \/     VERSION     : 14.7 (P.20131013)
+   \   \         APPLICATION : C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\compxlib.exe
+   /   /         CONTENTS    : Compilation Log
+  /___/   /\     FILENAME    : compxlib.log
+  \   \  /  \    
+   \___\/\___\
+
+Release 14.7 - C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\compxlib.exe 14.7 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Processing command line ...
+Library Source Paths => 'C:/Xilinx/14.7/ISE_DS/ISE'
+Current Working Directory => 'C:\FPGA_labs\PLL'
+Compilation Mode = FAST
+Execute Mode = ON
+Scheduling library installation & compilation for architectures: spartan3e
+
+Scheduling library installation & compilation for libraries: simprim unisim xilinxcorelib edk
+
+Signature:-
+------------------------------------------------------------------------------
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\compxlib.exe -s mti_se -l vhdl -p C:/altera/13.0sp1/modelsim_ase/win32aloem -arch spartan3e -lib unisim -lib simprim -lib xilinxcorelib -lib edk -exclude_superseded -intstyle ise 
+------------------------------------------------------------------------------
+ERROR:Compxlib - COMPXLIB[sim]: Unable to automatically find executables for simulator 'mti_se' from the following paths:
+    C:/altera/13.0sp1/modelsim_ase/win32aloem
+   C:\Xilinx\14.7\ISE_DS\ISE\\lib\nt64
+   C:\Xilinx\14.7\ISE_DS\ISE\\bin\nt64
+   C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64
+   C:\Xilinx\14.7\ISE_DS\ISE\lib\nt64
+   C:\Xilinx\14.7\ISE_DS\ISE\..\..\..\DocNav
+   C:\Xilinx\14.7\ISE_DS\PlanAhead\bin
+   C:\Xilinx\14.7\ISE_DS\EDK\bin\nt64
+   C:\Xilinx\14.7\ISE_DS\EDK\lib\nt64
+   C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\nt\bin
+   C:\Xilinx\14.7\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin
+   C:\Xilinx\14.7\ISE_DS\EDK\gnuwin\bin
+   C:\Xilinx\14.7\ISE_DS\EDK\gnu\arm\nt\bin
+   C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_be\bin
+   C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_le\bin
+   C:\Xilinx\14.7\ISE_DS\common\bin\nt64
+   C:\Xilinx\14.7\ISE_DS\common\lib\nt64
+   C:\Program Files (x86)\Siemens\Automation\SCADA-RT_V11\WinCC\Bin
+   C:\Program Files\Common Files\Siemens\Automation\Simatic OAM\bin
+   C:\Program Files (x86)\Common Files\Siemens\Bin
+   C:\Program Files (x86)\Common Files\Siemens\CommonArchiving
+   C:\Program Files (x86)\Common Files\Siemens\ACE\Bin
+   C:\Program Files\Common Files\Oracle\Java\javapath
+   C:\ProgramData\Oracle\Java\javapath
+   C:\Windows\system32
+   C:\Windows
+   C:\Windows\System32\Wbem
+   C:\Windows\System32\WindowsPowerShell\v1.0\
+   C:\Windows\System32\OpenSSH\
+   C:\Program Files\Microchip\xc8\v3.00\bin
+   C:\Program Files\Git\cmd
+   C:\GlobalPlatformPro\tool\target
+   C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\
+   C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\
+   C:\Program Files\Microsoft SQL Server\140\Tools\Binn\
+   C:\Program Files\Microsoft SQL Server\140\DTS\Binn\
+   C:\Program Files (x86)\Siemens\Automation\SCADA-RT_V11\WinCC\Interfaces
+   C:\Program Files (x86)\Common Files\Siemens\
+   C:\Program Files (x86)\Common Files\Siemens\Interfaces
+   C:\Program Files (x86)\Common Files\Siemens\ACE\Interfaces
+   C:\Program Files\dotnet\
+   C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\
+   C:\Program Files\IVI Foundation\VISA\Win64\Bin\
+   C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI
+   C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin
+   C:\Users\user\AppData\Local\Microsoft\WindowsApps.
+Simulator 'mti_se' is ignored.

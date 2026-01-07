@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/FPGA_labs/PLL/tb.xst" -ofn "C:/FPGA_labs/PLL/tb.syr" 
+xst -intstyle ise -ifn "C:/FPGA_labs/PLL/tb.xst" -ofn "C:/FPGA_labs/PLL/tb.syr" 
+xst -intstyle ise -ifn "C:/FPGA_labs/PLL/tb.xst" -ofn "C:/FPGA_labs/PLL/tb.syr" 
+xst -intstyle ise -ifn "C:/FPGA_labs/PLL/tb.xst" -ofn "C:/FPGA_labs/PLL/tb.syr" 

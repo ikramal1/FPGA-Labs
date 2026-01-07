@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/FPGA_labs/PLL/tb_isim_beh.exe" -prj "C:/FPGA_labs/PLL/tb_beh.prj" "work.tb" 
